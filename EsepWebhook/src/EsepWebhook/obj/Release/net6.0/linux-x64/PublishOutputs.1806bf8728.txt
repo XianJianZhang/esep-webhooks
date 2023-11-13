@@ -3,4 +3,5 @@ C:\Users\xianj\OneDrive\Desktop\Xian Zhang\UFFiles\UFCourses\Fall 2023\CIS4930 E
 C:\Users\xianj\OneDrive\Desktop\Xian Zhang\UFFiles\UFCourses\Fall 2023\CIS4930 Enterprise Engineering\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
 C:\Users\xianj\OneDrive\Desktop\Xian Zhang\UFFiles\UFCourses\Fall 2023\CIS4930 Enterprise Engineering\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
 C:\Users\xianj\OneDrive\Desktop\Xian Zhang\UFFiles\UFCourses\Fall 2023\CIS4930 Enterprise Engineering\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\xianj\OneDrive\Desktop\Xian Zhang\UFFiles\UFCourses\Fall 2023\CIS4930 Enterprise Engineering\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Newtonsoft.Json.dll
 C:\Users\xianj\OneDrive\Desktop\Xian Zhang\UFFiles\UFCourses\Fall 2023\CIS4930 Enterprise Engineering\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll
